@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ creating domains for my verses<br>⚡National University-Manila
+⚡ creating domains for my verses
 
 
 # 💻 Tech Stack:
